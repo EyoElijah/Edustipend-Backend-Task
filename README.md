@@ -1,6 +1,7 @@
 # Edustipend Backend Task
 
-This is a sample Node.js service that provides the two API endpoints:
+This is a sample Node.js service that provides two API endpoints: to get posts and comments
+using this url https://jsonplaceholder.typicode.com/comments, https://jsonplaceholder.typicode.com/posts
 
 ## Technologies
 
